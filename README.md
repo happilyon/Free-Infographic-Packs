@@ -11,6 +11,10 @@ To modify and customize icons, color, size and type of image etc. use free progr
 
 # Free-Infographic-Packs
 
-A growing library of scalable vector graphics, created for infographic elements, to request custom packs or individual icons reach us here 
+A growing library of scalable vector graphics, created for infographic elements. To request custom packs or individual icons reach us here 
 
 [Happilyon.com/reach](http://www.happilyon.com/reach/)
+
+Preview icons or download individually here
+
+[thenounproject.com/happilyon](https://thenounproject.com/happilyon/)
