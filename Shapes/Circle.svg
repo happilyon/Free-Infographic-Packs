@@ -1,8 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="75 75 100 100" style="enable-background:new 75 75 100 100;" xml:space="preserve">
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
 <style type="text/css">
-	.st0{stroke:#000000;stroke-miterlimit:10;}
+	.st0{fill:#010101;stroke:#010101;stroke-miterlimit:10;}
 </style>
-<circle id="XMLID_2_" class="st0" cx="125" cy="125" r="47.5"/>
+<circle id="XMLID_2_" class="st0" cx="50" cy="50" r="47.5"/>
 </svg>
