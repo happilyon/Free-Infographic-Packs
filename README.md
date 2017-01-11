@@ -2,6 +2,8 @@
 
 [Creative Commons](https://creativecommons.org/licenses/by/3.0)
 
+Please do not host for download or repackage for sale
+
 # Working
 
 To modify and customize icons, color, size and type of image etc. use free program below
