@@ -17,6 +17,3 @@ A growing library of scalable vector graphics, created for infographic elements.
 
 [Happilyon.com/reach](http://www.happilyon.com/reach/)
 
-Preview icons or download individually here
-
-[thenounproject.com/happilyon](https://thenounproject.com/happilyon/)
