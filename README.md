@@ -13,7 +13,7 @@ To modify and customize icons, color, size and type of image etc. use free progr
 [INKSCAPE](https://inkscape.org)
 
 
-# Free-Infographic-Packs
+# Free Infographic Packs
 
 A growing library of scalable vector graphics, created for infographic elements. To request custom packs or individual icons reach us here 
 
