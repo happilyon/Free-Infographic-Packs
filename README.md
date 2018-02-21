@@ -19,3 +19,6 @@ A growing library of scalable vector graphics, created for infographic elements.
 
 [Happilyon.com/reach](http://www.happilyon.com/reach/)
 
+Watch this two minute Inkscape quick start guide
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/1FM02a3viT4/0.jpg)](http://www.youtube.com/watch?v=1FM02a3viT4 "Video Title")
